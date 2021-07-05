@@ -1,5 +1,5 @@
 # Crud-Dj
-Login Functionality is added(no database)
+Login Functionality is added
 
 logout functionality is added
 
