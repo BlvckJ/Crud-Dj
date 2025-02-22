@@ -7,7 +7,7 @@ register functionality is added
 
 no tests
 
-deployed to heroku but app crashed(unable to resolve)
+deployed to heroku but app crashed
 
 comments not added
 
